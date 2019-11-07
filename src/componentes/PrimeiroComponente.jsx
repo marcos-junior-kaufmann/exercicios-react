@@ -2,7 +2,7 @@ import React from 'react';
 
 
 export default () =>
-	<h1>Primeiro Componente (Arrow)</h1>
+	<div><h1>Primeiro Componente (Arrow)</h1></div>
 
 
 // export default function () {
